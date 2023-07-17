@@ -1,2 +1,2 @@
 # http-pure-python
-An http server written in pure python for the Networking course at TOBB ETU.
+An http server written in pure python without using any web librariesfor the Networking course at TOBB ETU.
